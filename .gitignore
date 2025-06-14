@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 articles/gravity_trade/data
+articles/gravity_trade/documents
 articles/output_gap/data
 articles/remittance/data
+articles/remittance/documents
